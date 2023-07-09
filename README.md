@@ -19,4 +19,6 @@
 ![alt text](https://github.com/komarov0512/Medical-image-analysis/blob/main/image%201.png?raw=true)
 
 ### Результат:
+![alt text](https://github.com/komarov0512/Medical-image-analysis/blob/main/Image%20README/result2.png)
+
 ![alt text](https://github.com/komarov0512/Medical-image-analysis/blob/main/Image%20README/result.png?raw=true)
